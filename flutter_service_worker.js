@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2fedd75e2b70ce97ed33c5f035c8dc22",
 "cricbuzz_logo.png": "4f3488de5da42be132e8b46222d1c749",
-"index.html": "8452fc25e573c6bdab41389e9ee00dc7",
-"/": "8452fc25e573c6bdab41389e9ee00dc7",
+"index.html": "d18eb5a021dbfec372ddc883694901a8",
+"/": "d18eb5a021dbfec372ddc883694901a8",
 "styles.css": "5446e0ee3ab5ceebc86e7525fafd057b",
 "main.dart.js": "14f27ee8352660542d68b9ff87b20fad",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
